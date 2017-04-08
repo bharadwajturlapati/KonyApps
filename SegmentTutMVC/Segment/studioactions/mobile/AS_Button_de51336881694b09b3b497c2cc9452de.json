@@ -1,0 +1,27 @@
+{
+    "AS_Button_de51336881694b09b3b497c2cc9452de": {
+        "id": "AS_Button_de51336881694b09b3b497c2cc9452de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmone",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f9cc94b286c443dd8ffc9d09b6710ef3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c2427ea76bf14d52a3be6c483dd2b151",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loadDataInSegment",
+            "display": "loadDataInSegment",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
